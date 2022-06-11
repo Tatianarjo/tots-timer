@@ -11,9 +11,24 @@
   background: #d2f15d; 
 }
 
+.title_name {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 60px;
+  color: #3612ec;
+}
+
+.sub_title {
+  color: #3612ec
+}
+
 .font-link {
   font-family: 'Bebas Neue', cursive;
   font-family: 'Oooh Baby', cursive;
+}
+
+Button {
+  background-color: #d0c7ff;
+  border-radius: 14px
 }
 
 .input-wrapper input {
