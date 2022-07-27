@@ -13,7 +13,7 @@ function App() {
     return (
     <div className="container">
       <h1 className="title_name">Tot's Timer</h1>
-      <h2 className="sub_title">Work Take A Break Then Work Again!</h2>
+      <h2 className="sub_title">Work | Short Break | Long Break</h2>
       {pomodoro == 0 ? (
         <SetPomodoro />
       ) : (
